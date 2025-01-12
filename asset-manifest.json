@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/road-safety-tracker/static/css/main.ec7f401a.css",
-    "main.js": "/road-safety-tracker/static/js/main.b9a0b457.js",
-    "index.html": "/road-safety-tracker/index.html",
-    "main.ec7f401a.css.map": "/road-safety-tracker/static/css/main.ec7f401a.css.map",
-    "main.b9a0b457.js.map": "/road-safety-tracker/static/js/main.b9a0b457.js.map"
+    "main.css": "./static/css/main.ec7f401a.css",
+    "main.js": "./static/js/main.b9a0b457.js",
+    "index.html": "./index.html",
+    "main.ec7f401a.css.map": "./static/css/main.ec7f401a.css.map",
+    "main.b9a0b457.js.map": "./static/js/main.b9a0b457.js.map"
   },
   "entrypoints": [
     "static/css/main.ec7f401a.css",
